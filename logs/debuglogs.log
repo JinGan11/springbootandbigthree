@@ -1,0 +1,11 @@
+2019-10-30 11:22:03 ?[ background-preinit:0 ] - [ INFO ] ?HV000001: Hibernate Validator 6.0.17.Final
+2019-10-30 11:22:04 ?[ main:278 ] - [ INFO ] ?Starting DemoApplication on DESKTOP-C0NQ1O4 with PID 27708 (C:\Users\edz\IdeaProjects\springbootandbigthree\target\classes started by edz in C:\Users\edz\IdeaProjects\springbootandbigthree)
+2019-10-30 11:22:04 ?[ main:280 ] - [ INFO ] ?No active profile set, falling back to default profiles: default
+2019-10-30 11:22:05 ?[ main:1226 ] - [ INFO ] ?Tomcat initialized with port(s): 8080 (http)
+2019-10-30 11:22:05 ?[ main:1303 ] - [ INFO ] ?Root WebApplicationContext: initialization completed in 931 ms
+2019-10-30 11:22:05 ?[ main:1467 ] - [ INFO ] ?Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-30 11:22:07 ?[ main:3616 ] - [ INFO ] ?Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-30 11:22:07 ?[ main:3619 ] - [ INFO ] ?Started DemoApplication in 3.769 seconds (JVM running for 4.603)
+2019-10-30 11:22:10 ?[ http-nio-8080-exec-1:6159 ] - [ INFO ] ?Initializing Servlet 'dispatcherServlet'
+2019-10-30 11:22:10 ?[ http-nio-8080-exec-1:6163 ] - [ INFO ] ?Completed initialization in 4 ms
+2019-10-30 11:22:13 ?[ http-nio-8080-exec-1:9128 ] - [ INFO ] ?打印日志----------------------

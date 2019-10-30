@@ -11,6 +11,8 @@ import javax.servlet.http.HttpSession;
 import java.util.Date;
 import java.util.Map;
 
+
+
 /**
  * Description: 用户控制层
  *
@@ -20,7 +22,7 @@ import java.util.Map;
  */
 @RestController
 public class UserController {
-    private final Logger logger = LoggerFactory.getLogger(UserController.class);
+    private static final Logger logger = LoggerFactory.getLogger(UserController.class);
 
     @Value("${application.message:Hello World}")
     private String message ;
@@ -36,6 +38,9 @@ public class UserController {
     @ResponseBody
     public Object foo() {
         logger.info("打印日志----------------------");
+        logger.error("打印日誌");
+        logger.debug("打印日誌");
+        logger.warn("打印日誌");
         return  "login";
     }
 
